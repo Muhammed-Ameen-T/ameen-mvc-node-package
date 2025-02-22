@@ -19,11 +19,17 @@ A CLI tool to generate a modern, Windows-compatible MERN stack project with MVC 
 ## ✨ Features
 
 ✅ **MERN Stack Ready** - Generates a full-stack project with backend and frontend.
+
 ✅ **MVC Architecture** - Organized file structure for scalability.
+
 ✅ **Windows-Compatible** - Ensures smooth setup on Windows.
+
 ✅ **Pre-configured Scripts** - Includes development, production, and deployment scripts.
+
 ✅ **Authentication Middleware** - JWT-based authentication setup included.
+
 ✅ **MongoDB Configuration** - Pre-set for database connection with `.env` support.
+
 ✅ **Git Initialization** - Initializes a Git repository for easy version control.
 
 ## 🛠️ Installation
@@ -43,10 +49,15 @@ ameen-mvc myProject
 ```
 
 This will:
+
 ✔ Create a new `myProject/` directory.
+
 ✔ Generate a MERN MVC folder structure.
+
 ✔ Install backend dependencies.
+
 ✔ Initialize Git.
+
 ✔ Create a React frontend inside `client/`.
 
 ## 📂 Project Structure
