@@ -151,7 +151,8 @@ This project is licensed under the MIT License - feel free to use and modify it!
 
 If you found this tool useful, please ⭐ star this repository on GitHub! 😊
 
-🔗 **GitHub Repo**: [ameen-mvc]([(https://github.com/Muhammed-Ameen-T/ameen-mvc-node-package))
+🔗 **GitHub Repo**: [ameen-mvc](https://github.com/Muhammed-Ameen-T/ameen-mvc-node-package))
+
 🔗 **NPM Package**: [ameen-mvc](https://www.npmjs.com/package/ameen-mvc/))
 
 <div align="center">
