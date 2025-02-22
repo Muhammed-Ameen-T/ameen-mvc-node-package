@@ -1,0 +1,31 @@
+{
+  "name": "ameen-mvc",
+  "version": "1.0.2",
+  "description": "Windows-compatible MERN stack generator with MVC architecture",
+  "main": "index.js",
+  "bin": {
+    "ameen-mvc": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "node",
+    "mvc",
+    "windows"
+  ],
+  "author": "Ameen",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.6"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
