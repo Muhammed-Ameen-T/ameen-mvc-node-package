@@ -1,6 +1,6 @@
 {
   "name": "ameen-mvc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Windows-compatible MERN stack generator with MVC architecture",
   "main": "index.js",
   "bin": {
